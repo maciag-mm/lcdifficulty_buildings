@@ -8,7 +8,7 @@ Półautomatyczny zestaw narzędzi do obliczania parametrów zabudowy wiejskiej 
 Licencja: GNU General Public License v3.0
 
 Zawartość repozytorium:
-L.p.	Nazwa pliku i rozszerzenie
+L.p.;	Nazwa pliku i rozszerzenie;
 Typ pliku;	Zastosowanie;	Środowisko obsługi pliku
 1.	SALATA 1.3.py;
 skrypt w języku Python;	delimitacja obszarów zabudowy metodą Salaty [2019];	QGIS 3.40.0
