@@ -7,7 +7,7 @@ License: GNU General Public License v3.0
 Półautomatyczny zestaw narzędzi do obliczania parametrów zabudowy wiejskiej dla potrzeb analizy trudności prac scalania gruntów.
 Licencja: GNU General Public License v3.0
 
-Zawartość repozytorium:
+[PL] Zawartość repozytorium:
 L.p.;	Nazwa pliku i rozszerzenie;
 Typ pliku;	Zastosowanie;	Środowisko obsługi pliku
 1.	SALATA 1.3.py;
